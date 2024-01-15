@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+@font-face {
+  font-family: "Larken";
+  font-weight: normal;
+  src: url("~/assets/fonts/Larken-Regular.woff2") format("woff2");
+}
+
+
+@font-face {
+    font-family: "Larken";
+    font-weight: bold;
+    src: url("~/assets/fonts/Larken-Bold.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: "Larken";
+    font-style: italic;
+    font-weight: 400;
+    src: url("~/assets/fonts/Larken-Italic.woff2") format("woff2");
+  }
+
+  @font-face {
+    font-family: "Larken";
+    font-weight: lighter;
+    font-style: italic;
+    src: url("~/assets/fonts/Larken-LightItalic.woff2") format("woff2");
+  }
